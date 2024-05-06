@@ -1,2 +1,1 @@
-# old-dragon
-this was before the 0.4.0 update
+NOTE THAT THIS DRAGON WONT WORK IN THE CURRENT 0.4.0 UPDATE AND THIS WOULD BE ARCHIVE
